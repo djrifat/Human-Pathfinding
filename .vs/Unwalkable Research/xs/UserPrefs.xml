@@ -1,0 +1,26 @@
+﻿<Properties StartupConfiguration="{9B8DFB00-8207-FC79-03F4-91CC3A721AE3}|">
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/Node.cs">
+    <Files>
+      <File FileName="Assets/Scripts/Node.cs" Line="8" Column="1" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="Unwalkable Research" expanded="True">
+            <Node name="Assets" expanded="True">
+              <Node name="Scenes" selected="True" />
+              <Node name="Scripts" expanded="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.Assembly-CSharp PreferredExecutionTarget="ac1ed525-9b52-42e7-b2d4-a5fa63ce4166" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+</Properties>
